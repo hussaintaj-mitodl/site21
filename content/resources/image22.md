@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/site21/image22.png
+file: /media/courses/21-site21-spring-2022/image22.png
 file_type: image/png
 image_metadata:
   caption: ''
